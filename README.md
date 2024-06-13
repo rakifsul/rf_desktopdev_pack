@@ -14,6 +14,6 @@ Download the tools on "Release" page.
 
 ## Support Me
 
-Just support me by using those tools and spread it.
+Just support me by using those tools and spread them.
 
 Also, remember my internet name is RAKIFSUL/Rakifsul/rakifsul.
