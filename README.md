@@ -4,7 +4,7 @@
 
 So, these are tools i made so far.
 
-Mostly are development tools such as JavaScript or Python IDE.
+Some of them are development tools such as JavaScript or Python IDE, but generally, this repo contains any tools that i have made.
 
 I tried to make these tools as portable as i can, so you can store it in your flash drive and run it on random PC anywhere.
 
