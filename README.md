@@ -24,12 +24,13 @@ So, to summarize all **latest** tools, here is the download list:
 -   [RF Keyboard Sound: playing sound on keystroke](https://github.com/rakifsul/rf_tools_pack/releases/download/2024.06.14/rf_keyboard_sound_2024.06.14-2000.exe)
 -   [RF JS Engine: portable Node.js IDE](https://github.com/rakifsul/rf_tools_pack/releases/download/2024.06.14/rf_js_engine_2024.06.14-2000.exe)
 -   [RF Py Engine: portable Python IDE](https://github.com/rakifsul/rf_tools_pack/releases/download/2024.06.14/rf_py_engine_2024.06.14-2000.exe)
+-	[RF DB Engine: portable database server pack](https://github.com/rakifsul/rf_tools_pack/releases/download/2024.06.18/rf_db_engine_2024.06.18-2300.exe)
 
 ## Coming Soon, Maybe?
 
 I have some ideas to enrich this project:
 
--   Database Server Bundle Manager.
+-   Database Server Pack Manager.
 -   Web Based Website Copier.
 -   Etc... Tell me on issues.
 
