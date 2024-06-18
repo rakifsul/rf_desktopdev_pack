@@ -30,7 +30,7 @@ So, to summarize all **latest** tools, here is the download list:
 
 I have some ideas to enrich this project:
 
--   Database Server Pack Manager.
+-   [done] Database Server Pack Manager.
 -   Web Based Website Copier.
 -   Etc... Tell me on issues.
 
