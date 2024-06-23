@@ -1,4 +1,4 @@
-# rf_tools_pack - Collection of Tools App, Made by RAKIFSUL
+# rf_tools_pack - Collection of Tools App, Multi Purpose App
 
 ## Intro
 
