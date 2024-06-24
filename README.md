@@ -15,12 +15,13 @@ So, to summarize all tools, here is the repository list:
 -   [RF Website Downloader: download entire website as png or pdf](https://github.com/rakifsul/rf_website_downloader)
 -   [RF Password Generator: simple password generator](https://github.com/rakifsul/rf_password_generator)
 -   [RF Keyboard Sound: playing sound on keystroke](https://github.com/rakifsul/rf_keyboard_sound)
+-	[RF DB Engine: database server pack in one app](https://github.com/rakifsul/rf_db_engine)
 
 ## Coming Soon, Maybe?
 
 I have some ideas to enrich this project:
 
--   Database Server Pack Manager.
+-   [done] Database Server Pack Manager.
 -   Web Based Website Copier.
 -   Etc... Tell me on issues.
 
