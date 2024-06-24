@@ -1,5 +1,7 @@
 # rf_tools_pack - Collection of Tools App, Multi Purpose App
 
+[README Bahasa Indonesia](https://github.com/rakifsul/rf_tools_pack/blob/main/README_id.md)
+
 ## Intro
 
 So, these are tools i made so far.
@@ -21,7 +23,7 @@ So, to summarize all tools, here is the repository list:
 
 I have some ideas to enrich this project:
 
--   [done] Database Server Pack Manager.
+-   [done: RF DB Engine] Database Server Pack Manager.
 -   Web Based Website Copier.
 -   Etc... Tell me on issues.
 
