@@ -1,6 +1,6 @@
 # rf_tools_pack - Collection of Tools App, Multi Purpose App
 
-[README dengan Bahasa Indonesia](https://github.com/rakifsul/rf_tools_pack/blob/main/README_id.md)
+[README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_tools_pack/blob/main/README_id.md)
 
 ## Intro
 
