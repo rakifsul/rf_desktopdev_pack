@@ -46,3 +46,7 @@ Alat-alat ini mungkin menggunakan project-project open source ini:
 -   Dan lain-lain...
 
 Saya sangat menghargai developer dan kontributor dari project-project open source tadi.
+
+## Link untuk Traktir
+
+- https://karyakarsa.com/rakifsul
