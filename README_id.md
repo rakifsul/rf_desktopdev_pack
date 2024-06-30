@@ -49,4 +49,4 @@ Saya sangat menghargai developer dan kontributor dari project-project open sourc
 
 ## Link untuk Traktir
 
-- https://karyakarsa.com/rakifsul
+- https://karyakarsa.com/rakifsul/info
