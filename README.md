@@ -4,7 +4,7 @@
 
 ## Intro
 
-So, these are tools i made so far.
+So, these are tools i made so far...
 
 ## Where to Download
 
