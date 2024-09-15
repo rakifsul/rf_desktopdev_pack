@@ -49,6 +49,6 @@ My tools might be using these open source projects:
 
 I really appreciate the developers and contributors of those open source projects.
 
-## Link untuk Traktir
+## Freelance Worker Link
 
-- https://karyakarsa.com/rakifsul/info
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul
