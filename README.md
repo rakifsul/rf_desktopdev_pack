@@ -1,4 +1,4 @@
-# rf_tools_pack - Collection of Tools App, Multi Purpose App
+# rf_desktopdev_pack - Collection of Tools App, Multi Purpose App
 
 [README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_tools_pack/blob/main/README_id.md)
 
