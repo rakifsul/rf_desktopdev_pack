@@ -22,7 +22,6 @@ Dengan demikian, ini daftar ringkasnya:
 Saya punya beberapa ide untuk memperkaya project ini:
 
 -   [selesai: RF DB Engine] Database Server Pack Manager.
--   Web Based Website Copier.
 -   Dan lain-lain... Ajukan ide Anda di issues.
 
 ## Dukung Saya

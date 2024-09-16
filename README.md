@@ -24,7 +24,6 @@ So, to summarize all tools, here is the repository list:
 I have some ideas to enrich this project:
 
 -   [done: RF DB Engine] Database Server Pack Manager.
--   Web Based Website Copier.
 -   Etc... Tell me on issues.
 
 ## Support Me
